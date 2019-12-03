@@ -41,7 +41,7 @@
 			}
 
 #navbutton	{
-			font-family: Times, "Times New Roman", "serif";
+			font-family: Arial, "sans-serif";
 			font-size:1.1em;
 			padding-top:40px;
 			text-align:right;
@@ -50,7 +50,7 @@
 			}
 
 #navbutton2	{
-			font-family: Times, "Times New Roman", "serif";
+			font-family: Arial, "sans-serif";
 			font-size:1.1em;
 			padding-top:40px;
 			text-align:right;
@@ -71,6 +71,7 @@ section		{
 #sig		{
 			width:1280px;
 			height: 575px;
+			margin-bottom:15px;
 			}
 
 

@@ -41,7 +41,7 @@
 			}
 
 #navbutton	{
-			font-family: Times, "Times New Roman", "serif";
+			font-family: Arial, "sans-serif";
 			font-size:1.1em;
 			padding-top:40px;
 			text-align:right;
@@ -50,7 +50,7 @@
 			}
 
 #navbutton2	{
-			font-family: Times, "Times New Roman", "serif";
+			font-family: Times, Arial, "sans-serif";
 			font-size:1.1em;
 			padding-top:40px;
 			text-align:right;
@@ -58,7 +58,6 @@
 			margin-right: 30px;
 			}
 section		{
-			background-color:yellow;
 			width: 600px;
 			height: 575px;
 			padding:10px;
@@ -67,6 +66,102 @@ section		{
 			margin-left:20px;
 			margin-bottom:15px;
 			}
+
+#left_res	{
+			font-family: 'Sanchez', serif;
+			text-align: center;
+			color:#006;
+			font-size: 1.4em;
+			width: 380px;
+			height: 575px;
+			float:left;
+			margin-right:20px;
+			margin-left:20px;
+			margin-bottom:15px;
+			padding-top: 150px;
+			}	
+
+#right_res	{
+			font-family: 'Sanchez', serif;
+			color:#006;
+			font-size: 1.4em;
+			width: 800px;
+			height: 575px;
+			float:left;
+			margin-right:20px;
+			margin-left:20px;
+			margin-bottom:15px;
+			}	
+
+
+
+#left_faq	{
+			font-family: 'Sanchez', serif;
+			color:#006;
+			font-size: 1.4em;
+			width: 380px;
+			height: 575px;
+			float:left;
+			margin-right:20px;
+			margin-left:20px;
+			margin-bottom:15px;
+			}	
+
+#center_faq	{
+			font-family: 'Sanchez', serif;
+			color:#006;
+			font-size: 1.4em;
+			width: 400px;
+			height: 575px;
+			float:left;
+			margin-right:20px;
+			margin-left:20px;
+			margin-bottom:15px;
+			}	
+
+
+#right_faq	{
+			background-color:;
+			font-family: 'Sanchez', serif;
+			color:#006;
+			font-size: 1.4em;
+			width: 380px;
+			height: 575px;
+			float:left;
+			margin-right:20px;
+			margin-left:20px;
+			margin-bottom:15px;
+			}	
+
+#portfolio	{
+			font-family: 'Sanchez', serif;
+			color:#006;
+			background-image: url("assets/portfolio.png");
+			background-repeat: no-repeat;
+			font-size: 1.4em;
+			width: 835px;
+			height: 575px;
+			padding-top:50px;
+			padding-left:275px;
+			padding-right:200px;
+			float:left;
+			margin-right:222px;
+			margin-left:222px;
+			margin-bottom:15px;
+			}
+
+#left_about	{
+			font-family: 'Sanchez', serif;
+			color:#006;
+			font-size: 1.4em;
+			width: 600px;
+			height: 575px;
+			padding:10px;
+			float:left;
+			margin-right:20px;
+			margin-left:20px;
+			margin-bottom:15px;
+			}	
 
 #sig		{
 			width:1280px;
@@ -82,6 +177,13 @@ section		{
 			float: left;
 			}
 
+#rightside_about		{
+			width:600px;
+			height:575px;
+			margin-right:20px;
+			margin-left:20px;
+			float: left;
+			}
 #smallbox	{
 			background-color:khaki;
 			margin: 10px;
